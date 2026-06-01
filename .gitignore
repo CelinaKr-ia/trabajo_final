@@ -1,0 +1,13 @@
+# Carpetas de entorno virtual (No subirlas)
+venv/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Otros
+.DS_Store
